@@ -4,7 +4,7 @@ This is build 30 of the marbel project
 
 To run:
 1. clone this repo
-2. download the copy paste the Library and Assets folders into the root
+2. download then copy paste the Library and Assets folders into the root
 
 Code Documentations:
 
