@@ -2,7 +2,11 @@ Version 1.0
 
 This is build 30 of the marbel project
 
-Documentations:
+To run:
+1. clone this repo
+2. download the copy paste the Library and Assets folders into the root
+
+Code Documentations:
 
 In the Scripts folders are all the scripts used for the projects.
 Properties Script:
