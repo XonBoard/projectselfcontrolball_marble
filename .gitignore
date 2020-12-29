@@ -1,5 +1,4 @@
-*/Assets/*
-Assets/*
-!Sccripts
+/Assets/*
+!/Assets/Scripts
 */Library/*
 Library/*
